@@ -1,0 +1,13 @@
+# Dependencies
+frontend/node_modules/
+
+# Next.js build output
+frontend/.next/
+
+# Foundry/Forge libraries
+contracts/lib/
+
+# Foundry/Forge build output
+contracts/out/
+contracts/cache/
+contracts/broadcast/
